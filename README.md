@@ -9,10 +9,15 @@
 
 <h4 align="center">The Bootloop Saver uses a clever script that constantly checks the Zygote Process ID during boot. If it detects the Process ID behaving abnormally or stuck, it quickly disables all modules and triggers a device reboot to break free from the bootloop. It's like having a vigilant guardian to keep your system safe from the chaos! 🦸‍♂️🛡️ #BootloopSaver #PeaceOfMind</h4>
 
- <h1 align="center"><b> UNIVERSAL </b></h1> 
+<h1 align="center"><b> UNIVERSAL </b></h1> 
+
+# <h1 align="center"><b>Installation</b></h1>
+- Simply Flash trough Magisk or KSU Manager
 
 ## <h1 align="center"><b>Requirements:</b></h1>
-- Magisk 20.4+
+- Magisk 22.3+
+- KSU 10940
+- KSUD 10942
 - Latest Busybox/BrutalBB
 - Android 9.0+
 
