@@ -12,7 +12,7 @@
 <h1 align="center"><b> UNIVERSAL </b></h1> 
 
 # <h1 align="center"><b>Installation</b></h1>
-- Simply Flash trough Magisk or KSU Manager
+- Simply Flash trough Magisk or KSUD or AMM
 
 ## <h1 align="center"><b>Requirements:</b></h1>
 - Magisk 22.3+
