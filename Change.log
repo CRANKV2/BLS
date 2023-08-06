@@ -1,0 +1,19 @@
+### Version 1.0.0 (2023-08-04)
+- Added auto-detection for bootloops.
+- Improved Zygote PID checking.
+- Fixed module disabling process.
+- Updated Magisk compatibility.
+- Tweaked log messages for clarity.
+- Removed redundant function.
+
+### Version 1.1.0 (2023-08-05)
+- Removed support for custom recovery.
+- Improved overall stability.
+- Fixed compatibility with Magisk.
+- Updated documentation.
+
+### Version 1.1.2 (2023-08-06) Stable Release
+- Fixed intermittent bootloop detection issue.
+- Improved module disabling reliability.
+- Updated compatibility with the Latest KSU
+- Enhanced error handling and reporting.
